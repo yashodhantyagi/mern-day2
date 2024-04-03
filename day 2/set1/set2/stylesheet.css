@@ -1,0 +1,83 @@
+
+html{
+    font-size: 20px;
+}
+.tyagi{
+    font-size: xx-large;
+    background-color: blueviolet;
+    padding: 30px;
+    
+    margin: 10px 10px 10px 10px ;
+
+}
+.parent{
+    background-color: chocolate;
+    font-size: 3rem;
+    padding: 10px;
+    width: 600px;
+}
+.child{ background-color: blue;
+    padding: 20px;
+    font-size: 3rem;
+    font-style: italic;
+
+}
+.button{background-color: red;
+    font-size: xx-large;
+    border-radius: 20px;
+    margin-left: 200px;
+    border: 10px;
+    border-color: black;
+    width: 300px;
+    height: 50px;
+}
+.small{background-color: green;
+    font-size: 2em;
+    border-radius: 2em;
+    margin-top: 20px;
+    margin-left: 200px;
+    border: 2em;
+    border-color: black;
+    width: 300px;    
+}
+body{
+    background-color:
+    margin:20px;
+}
+.child1{
+    background-color: pink;
+  max-width: 20vw;
+ width: 40%;
+ max-height: 50px;
+}
+.parent1{
+    background-color: darkolivegreen;
+    height: 150px;
+}
+.parent3{ 
+    ol{
+        background-color: blueviolet
+    }
+    ul:first-child{
+        background-color: cadetblue;
+    }
+    ul:last-child{
+        background-color: rgb(164, 125, 201);
+    }
+
+ul:last-of-type{
+    li:nth-of-type(2
+    ){
+        background-color: aqua;
+        width: min-content;
+    }
+}
+
+}
+.parent4 ul{
+    background-color: aqua;
+}
+.parent4>ul{
+    background-color: blueviolet;
+}
+

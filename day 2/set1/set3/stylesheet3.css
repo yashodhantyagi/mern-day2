@@ -1,0 +1,23 @@
+.parent{
+    background-color: aqua;
+    display: flex;
+    height: 100px;
+    justify-content: space-around;
+}
+.child{
+    border: 3px solid black;
+    background-color: yellow;
+    width: 100px;
+}
+.parent1{
+    background-color: aqua;
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+}
+.parent2{
+    background-color: aqua;
+    display: flex;
+    height: 100px;
+    justify-content: space-evenly;
+}
